@@ -1,0 +1,37 @@
+.content{
+    display: flex;
+    padding-right: 5px;
+    flex-direction: column;
+}
+input{
+    height: 38px;
+    border-radius: 0.2rem;
+    border-style: none;
+}
+.rejoin{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    color: white
+}
+.link2{
+    margin-left: 9rem;
+    text-decoration: none;
+    color: white;
+}
+.link3{
+    margin-top: 2rem;
+    color: white;
+    text-align: center;
+}
+.Lep{
+    margin-bottom: 9px;
+    margin-top: 9px;
+    color: white;
+}
+.ll{
+    margin-bottom: 9px;
+    margin-top: 9px;
+    text-align: center;
+    color: white;
+}

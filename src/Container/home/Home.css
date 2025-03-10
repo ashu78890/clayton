@@ -1,0 +1,55 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #151519;
+    height: 50px;
+    width: 100%;
+    box-sizing: inherit;
+    /* position: sticky; */
+    position: fixed;
+}
+.logo-nav{
+    margin-left: 4px;
+    height: 35px;
+    margin-top:0% ;
+
+}
+.sidebar{
+display: flex;
+background-color: rgb(33, 33, 39);
+box-shadow: rgb(0, 0,0/50%) 2px 0px 6px 1px;
+width: 200px;
+height: 100%;
+margin-top: 50px;
+flex-direction: column;
+position: fixed; 
+}
+.link{
+    text-decoration: none;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+.Content{
+    margin-left: 200px; 
+     margin-top: 50px;
+}
+.dropbtn{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    color: white;
+}
+.data{
+    display: flex;
+    height: 100%;
+    width: 100%;  
+}
+.history{
+text-decoration: none;
+background: none;
+color: white;
+border: none;
+}
+

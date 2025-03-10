@@ -1,0 +1,10 @@
+.Parent{
+    border: solid blue;
+    display: flex;
+}
+
+.Child{
+    margin-left:  40px;
+    border: solid black;
+    display: flex;
+}

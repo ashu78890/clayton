@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    padding-right: 5px;
+    flex-direction: column;
+}
+.label1{
+    margin-top: 9px;
+    margin-bottom: 9px;
+    color: white;
+}
+.link5{
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-left: 30vh;
+    color: white;
+}
+h1{
+    color: white;
+}

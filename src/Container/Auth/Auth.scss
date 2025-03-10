@@ -1,0 +1,29 @@
+
+.Right{
+    background-image: url("../Image/banner.e8ffc98e.jpg");
+    position: absolute;
+    left: 30%;
+    width: 70%;
+    background-size: cover;
+    background-repeat: cover;
+    height: 100%;
+}
+.Left{
+background-image: linear-gradient(145deg,#ea0a2a,#0971ce);
+z-index: 1;
+width: 38%;
+overflow: auto;
+position: absolute;
+height: 100%;
+border-radius: 0px 20px 20px 0px;
+}
+.Container{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    margin-top: 5vh;
+    margin-left: 27vh;
+    display: flex;
+    justify-content: center;
+}
